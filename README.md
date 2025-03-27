@@ -9,7 +9,7 @@ FitTrack is an innovative fitness application designed to assist users in improv
 - 🎧 **Limited Accessibility**: People with visual impairments or those who prefer auditory cues struggle with visual-only feedback.
 
 ## Features
-- ✅ **Posture Correction**: Uses AI-driven pose estimation to detect incorrect postures and provide real-time guidance.
+- ✅ **Posture Correction**: Uses pose estimation to detect incorrect postures and provide real-time guidance.
 - 📊 **Exercise Tracking**: Monitors user activity and keeps track of completed workouts.
 - 🎯 **Personalized Recommendations**: Offers customized workout suggestions based on user performance.
 - 🎨 **User-Friendly Interface**: Intuitive and easy-to-use application design.

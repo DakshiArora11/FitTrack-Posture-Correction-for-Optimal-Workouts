@@ -20,12 +20,11 @@ FitTrack is an innovative fitness application designed to assist users in improv
 
 ![image](https://github.com/user-attachments/assets/675b2b40-dfc7-49f7-beb2-358b2652f470)
 
-![image](https://github.com/user-attachments/assets/4d94c722-2549-4f8a-a548-b5479f93a423)
-
 ## Technologies Used
 - **Programming Languages**: Python, JavaScript
 - **Frameworks & Libraries**:
   - MediaPipe (for real-time pose estimation)
+  ![image](https://github.com/user-attachments/assets/4d94c722-2549-4f8a-a548-b5479f93a423)
   - OpenCV (for image processing and camera input handling)
   - Flask (for backend development)
   - HTML, CSS (for frontend development)

@@ -21,6 +21,9 @@ FitTrack is an innovative fitness application designed to assist users in improv
 ![image](https://github.com/user-attachments/assets/675b2b40-dfc7-49f7-beb2-358b2652f470)
 
 
+
+
+
 ![image](https://github.com/user-attachments/assets/4d94c722-2549-4f8a-a548-b5479f93a423)
 
 
@@ -30,10 +33,8 @@ FitTrack is an innovative fitness application designed to assist users in improv
   - MediaPipe (for real-time pose estimation)
   - OpenCV (for image processing and camera input handling)
   - Flask (for backend development)
-  - React, HTML, CSS (for frontend development)
-  - PyDub (for audio processing)
-  - gTTS, pyttsx3 (for text-to-speech audio feedback)
-  - SpeechRecognition (for audio input processing)
+  - HTML, CSS (for frontend development)
+  - pyttsx3 (for text-to-speech audio feedback)
 
 ## Usage
 1. Launch the application and log in or sign up.
